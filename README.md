@@ -23,15 +23,15 @@
 
 
 ### Пет-проекты:
--[Автотесты JS Cypress](https://github.com/OktoTiger/Cypress_js "Автотесты JS Cypress")
--[Сайт-визика на HTML + CSS](https://github.com/OktoTiger/OktoTiger.github.io "Сайт-визика на HTML + CSS")
--[Бот на Python для генерации данных пользователей](https://github.com/OktoTiger/tg_bot "Бот на Python для генерации данных пользователей")
--[Чек листы](https://github.com/OktoTiger/Check_list "Чек листы")
--[Игра морской бой на JS](https://github.com/OktoTiger/Battleships "Игра морской бой на JS")
--[Jmeter load plan](https://github.com/OktoTiger/Jmeter "Jmeter load plan")
--[Автотесты Selenium + Python](https://github.com/OktoTiger/Selenium_python "Автотесты Selenium + Python")
--[Автотесты Python + requests](https://github.com/OktoTiger/Autotests_pytest "Автотесты Python + requests")
--[Сайт-визитка+CI/CD](https://github.com/OktoTiger/CV-and-CI-CD "Сайт-визитка+CI/CD")
+-[Автотесты JS Cypress](https://github.com/OktoTiger/Cypress_js "Автотесты JS Cypress")<br>
+-[Сайт-визика на HTML + CSS](https://github.com/OktoTiger/OktoTiger.github.io "Сайт-визика на HTML + CSS")<br>
+-[Бот на Python для генерации данных пользователей](https://github.com/OktoTiger/tg_bot "Бот на Python для генерации данных пользователей")<br>
+-[Чек листы](https://github.com/OktoTiger/Check_list "Чек листы")<br>
+-[Игра морской бой на JS](https://github.com/OktoTiger/Battleships "Игра морской бой на JS")<br>
+-[Jmeter load plan](https://github.com/OktoTiger/Jmeter "Jmeter load plan")<br>
+-[Автотесты Selenium + Python](https://github.com/OktoTiger/Selenium_python "Автотесты Selenium + Python")<br>
+-[Автотесты Python + requests](https://github.com/OktoTiger/Autotests_pytest "Автотесты Python + requests")<br>
+-[Сайт-визитка+CI/CD](https://github.com/OktoTiger/CV-and-CI-CD "Сайт-визитка+CI/CD")<br>
 
 
 ### Языки и инстументы
