@@ -15,15 +15,15 @@
 - Эффективно организовываю свое время. Нахожу возможности для саморазвития и совершенствования. Мой девиз: "Время не любит когда его тратят в пустую".<br>
 
 ### Пет-проекты:
-*[Автотесты JS Cypress](https://github.com/OktoTiger/Cypress_js "Автотесты JS Cypress")
-*[Сайт-визика на HTML + CSS](https://github.com/OktoTiger/OktoTiger.github.io "Сайт-визика на HTML + CSS")
-*[Бот на Python для генерации данных пользователей](https://github.com/OktoTiger/tg_bot "Бот на Python для генерации данных пользователей")
-*[Чек листы](https://github.com/OktoTiger/Check_list "Чек листы")
-*[Игра морской бой на JS](https://github.com/OktoTiger/Battleships "Игра морской бой на JS")
-*[Jmeter load plan](https://github.com/OktoTiger/Jmeter "Jmeter load plan")
-*[Автотесты Selenium + Python](https://github.com/OktoTiger/Selenium_python "Автотесты Selenium + Python")
-*[Автотесты Python + requests](https://github.com/OktoTiger/Autotests_pytest "Автотесты Python + requests")
-*[Сайт-визитка+CI/CD](https://github.com/OktoTiger/CV-and-CI-CD "Сайт-визитка+CI/CD")
+-[Автотесты JS Cypress](https://github.com/OktoTiger/Cypress_js "Автотесты JS Cypress")
+-[Сайт-визика на HTML + CSS](https://github.com/OktoTiger/OktoTiger.github.io "Сайт-визика на HTML + CSS")
+-[Бот на Python для генерации данных пользователей](https://github.com/OktoTiger/tg_bot "Бот на Python для генерации данных пользователей")
+-[Чек листы](https://github.com/OktoTiger/Check_list "Чек листы")
+-[Игра морской бой на JS](https://github.com/OktoTiger/Battleships "Игра морской бой на JS")
+-[Jmeter load plan](https://github.com/OktoTiger/Jmeter "Jmeter load plan")
+-[Автотесты Selenium + Python](https://github.com/OktoTiger/Selenium_python "Автотесты Selenium + Python")
+-[Автотесты Python + requests](https://github.com/OktoTiger/Autotests_pytest "Автотесты Python + requests")
+-[Сайт-визитка+CI/CD](https://github.com/OktoTiger/CV-and-CI-CD "Сайт-визитка+CI/CD")
 
 
 ### Языки и инстументы
