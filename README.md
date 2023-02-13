@@ -3,7 +3,7 @@
 
 ---
 
-<a href="https://t.me/DmitryN63"><img align="left" alt="Github" src="https://octodex.github.com/images/socialite.png"
+<a href="https://t.me/DmitryN63"><img align="left" alt="Telegram" src="https://octodex.github.com/images/socialite.jpg"
                                                   width="25%"/></a>
 
 
@@ -36,6 +36,5 @@
 [Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 [Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
 
 
