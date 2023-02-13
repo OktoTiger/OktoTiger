@@ -14,6 +14,14 @@
 
 - Эффективно организовываю свое время. Нахожу возможности для саморазвития и совершенствования. Мой девиз: "Время не любит когда его тратят в пустую".<br>
 
+
+
+
+
+
+
+
+
 ### Пет-проекты:
 -[Автотесты JS Cypress](https://github.com/OktoTiger/Cypress_js "Автотесты JS Cypress")
 -[Сайт-визика на HTML + CSS](https://github.com/OktoTiger/OktoTiger.github.io "Сайт-визика на HTML + CSS")
