@@ -15,8 +15,8 @@
 - Эффективно организовываю свое время. Нахожу возможности для саморазвития и совершенствования. Мой девиз: "Время не любит когда его тратят в пустую".<br>
 
 - Всегда на связи:
-    - Телеграмм: https://t.me/DmitryN63
-    - ВК: https://vk.com/id828888
+    Телеграмм: https://t.me/DmitryN63
+    ВК: https://vk.com/id828888
 
 
 
@@ -32,15 +32,6 @@
 -[Сайт-визитка+CI/CD](https://github.com/OktoTiger/CV-and-CI-CD "Сайт-визитка+CI/CD")<br>
 
 
-### Языки и инстументы
-[Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-[Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-[HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-[CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-[VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-[Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-[Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-[Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-[Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 
